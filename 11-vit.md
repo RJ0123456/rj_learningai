@@ -49,3 +49,12 @@ els yield modest accuracies of a few percentage points below ResNets of comparab
 
 ## Architecture
 ![ViT](resource/images/vit.webp)
+
+## LVM
+https://arxiv.org/pdf/2312.00785 <br>
+Sequential Modeling Enables Scalable Learning for Large Vision Models
+<embed src="resource/2312.00785.pdf" width="100%" height="600px" type="application/pdf">
+
+## Diffusion Model
+
+## SAM2

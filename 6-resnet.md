@@ -6,7 +6,7 @@ Researchers observed that it makes sense to affirm that “the deeper the better
 This was one of the bottlenecks of VGG. They couldn’t go as deep as wanted, because they started to lose generalization capability.
 
 ## What problems ResNets solve?
-One of the problems ResNets solve is the famous known vanishing gradient. This is because when the network is too deep, the gradients from where the loss function is calculated easily shrink to zero after several applications of the chain rule. This result on the weights never updating its values and therefore, no learning is being performed.
+One of the problems ResNets solve is the famous known **vanishing gradient**. This is because when the network is too deep, the gradients from where the loss function is calculated easily shrink to zero after several applications of the chain rule. This result on the weights never updating its values and therefore, no learning is being performed.
 
 With ResNets, the gradients can flow directly through the skip connections backwards from later layers to initial filters.
 

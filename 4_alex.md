@@ -1,6 +1,5 @@
 # AlexNet
-ImageNet Classification with Deep Convolutional
- Neural Networks <br>
+ImageNet Classification with Deep Convolutional Neural Network <br>
 
 **Authors**:<br>
 Alex Krizhevsky
@@ -13,7 +12,7 @@ Geoffrey E. Hinton
 University of Toronto
 hinton@cs.utoronto.ca
 
-![architecture](resource/images/alexnet.webp)
+![architecture](resource/images/alexnet.webp)[Architecture]
 
 **AlexNet**. The architecture consists of eight layers: five convolutional layers and three fully-connected layers. But this isn’t what makes AlexNet special; these are some of the features used that are new approaches to convolutional neural networks:
 
@@ -32,3 +31,8 @@ hinton@cs.utoronto.ca
 ]
 
 Ref: https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+
+## CNN Explainer
+**Note** Visualization is more intuitive
+https://poloclub.github.io/cnn-explainer/ <br>
+![CNN](resource/images/convlayer_overview_demo.gif)[CNN]

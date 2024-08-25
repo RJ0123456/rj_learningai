@@ -1,7 +1,7 @@
 # VGG Neural Networks: The Next Step After AlexNet
 AlexNet came out in 2012 and was a revolutionary advancement; it improved on traditional Convolutional Neural Networks (CNNs) and became one of the best models for image classification… until VGG came out.
 
-![configuration](resource/images/vgg.webp)
+![configuration](resource/images/vgg.webp)[Architecture]
 
 **VGG Neural Networks**. While previous derivatives of AlexNet focused on smaller window sizes and strides in the first convolutional layer, VGG addresses another very important aspect of CNNs: depth. Let’s go over the architecture of VGG:
 

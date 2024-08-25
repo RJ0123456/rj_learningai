@@ -18,16 +18,13 @@ Word2Vec employs two main architectures: Continuous Bag of Words (CBOW) and Skip
 
 Continuous Bag of Words (CBOW):
 
-CBOW predicts the target word based on its context (surrounding words).
-
+**CBOW** <br>
+predicts the target word based on its context (surrounding words).
 It uses the context words as input to predict the target word.
-
 This architecture is efficient for smaller datasets and frequent words.
 
-Skip-gram:
-
+**Skip-gram**:<br>
 Skip-gram predicts the context words given a target word.
-
 It uses the target word as input to predict the context words.
 
 Skip-gram performs well with larger datasets and infrequent words.
