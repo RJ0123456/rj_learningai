@@ -58,4 +58,6 @@ Sequential Modeling Enables Scalable Learning for Large Vision Models
 <embed src="resource/pdf/2312.00785.pdf" width="100%" height="600px" type="application/pdf">
 
 ## SAM2
-<video src="resource/video/sam2.mp4" width="320" height="240" controls></video>
+<div>
+<video src="resource/video/sam2.mp4" width="640" height="480" controls></video>
+</div>
